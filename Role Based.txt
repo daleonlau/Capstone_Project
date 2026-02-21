@@ -1,0 +1,12 @@
+Admin :
+	- Create Organization(must have three different kinds of accounts Adviser,President,Treasurer)
+	- Views Logs
+	- view list of organization and their accounts(Adviser,President, Treasurer)
+President :
+	- Activity Planning (Has the power to create the plan for the event)
+	- Student Registration (Register Students to the system)
+	- Evaluation(In the activity planning side there is an action to generate qr once the event is done then once you tapped it, it will generate qr for the event. The qr will be available in the evaluation module) View Result Raw data representing the evaluation result
+Treasurer :
+	- once an event is approved then the treasurer can see that said event then can process the cash payment of the student then generate digital receipt and send it to the student's email.
+Adviser :
+	- Viewport of the Activity Planning(once the president create it , it will automatically be pending then if the papers needed to be signed then the adviser has the power to upload the proof that it is already been signed completely and once it has been uploaded then the status of the event will be approved)
